@@ -1,1 +1,1 @@
-# TareaAWS
+# taller-basic-aws
